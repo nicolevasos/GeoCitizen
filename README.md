@@ -20,9 +20,11 @@ The repo contains Jupyter notebooks, API tests, and prototype implementations fo
 ## Repository Structure
 
 ```
-├── notebooks/ # Jupyter notebooks for testing APIs and workflows
-├── apis/ # API scripts and connectors (WHISP, FarmVibes.AI, others)
-├── prototype/ # SELF-EUDR tool prototype (frontend + backend mockups)
+├── notebooks & apis/ # Jupyter notebooks for testing APIs and workflows
+├────── WHISP
+├────── SAM2
+├────── Raster imagery enhacement
+├────── Risk Assesment Dashboard - Based on WHISP sample data
 ├── benchmarking/ # Scripts for comparing risk platforms
 ├── data/ # Sample polygon datasets for testing
 ├── docs/ # Documentation, references, and reports
