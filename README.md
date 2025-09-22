@@ -1,11 +1,11 @@
-# GeoCitizen – Digital Tools for EUDR Compliance and Risk Benchmarking
+# GeoCitizens – Digital Tools for EUDR Compliance and Risk Benchmarking
 
 ## Overview
-This repository contains the outputs from the internship **“Digital Tools for EUDR Compliance and Risk Benchmarking”** conducted at GeoCitizen from **July 15th to September 9th, 2025**.  
+This repository contains the outputs from the internship **“Digital Tools for EUDR Compliance and Risk Benchmarking”** conducted at GeoCitizens from **July 15th to September 9th, 2025**.  
 
 The project focuses on:  
 
-- Empowering **smallholder farmers** with a **SELF-EUDR tool** (based on GeoCitizen) to perform geolocation-based deforestation risk self-assessments.  
+- Empowering **smallholder farmers** with a **SELF-EUDR tool** (based on GeoCitizens) to perform geolocation-based deforestation risk self-assessments.  
 - **Benchmarking deforestation risk analysis platforms** such as WHISP and FarmVibes.AI to evaluate their transparency, usability, and consistency.  
 
 The repository includes Jupyter notebooks, API tests, prototype implementations, and a benchmarking framework for risk analysis platforms.  
@@ -36,8 +36,8 @@ The repository includes Jupyter notebooks, API tests, prototype implementations,
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/nicolevasos/GeoCitizen.git
-   cd GeoCitizen
+   git clone https://github.com/nicolevasos/GeoCitizens.git
+   cd GeoCitizens
    ```
 2. **Create a virtual environment**
    ```bash
@@ -104,8 +104,8 @@ The repository includes Jupyter notebooks, API tests, prototype implementations,
 ---
 
 ## Resources & References
-- [GeoCitizen GitHub Repo](https://github.com/nicolevasos/GeoCitizen)  
-- [WHISP Dashboard – GeoCitizen version](https://github.com/nicolevasos/WHISP-Dashboard)  
+- [GeoCitizens GitHub Repo](https://github.com/nicolevasos/GeoCitizens)  
+- [WHISP Dashboard – GeoCitizens version](https://github.com/nicolevasos/WHISP-Dashboard)  
 - [WHISP](https://github.com/forestdatapartnership/whisp)  
 - [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai)  
 - [OpenForis](https://openforis.org/)  
