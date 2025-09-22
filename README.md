@@ -76,6 +76,7 @@ The repository includes Jupyter notebooks, API tests, prototype implementations,
 - Compared platforms using criteria: **accuracy, usability, transparency, consistency**.  
 - Delivered a GitHub repository with notebooks, a customized WHISP dashboard, and documentation for reproducible benchmarking.  
 
+![Gantt Chart](.github/assets/gantt_chart.png)
 ---
 
 ## Results & Contributions
