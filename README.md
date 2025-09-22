@@ -20,7 +20,7 @@ The repository includes Jupyter notebooks, API tests, prototype implementations,
 ---
 
 ## Repository Structure
-
+```
 ├── notebooks           # Jupyter notebooks for workflow testing and prototype development
 │ ├── WHISP             # What Is in That Plot
 │ ├── SAM2GEO           # Segment Anything Model for Geospatial Modelling
@@ -28,7 +28,7 @@ The repository includes Jupyter notebooks, API tests, prototype implementations,
 ├── data/               # Sample polygon datasets for testing
 ├── docs/               # Documentation, references, and reports
 └── README.md           # Project overview (this file)
-
+```
 
 ---
 
