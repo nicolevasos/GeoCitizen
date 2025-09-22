@@ -1,4 +1,4 @@
-# GeoCitizens -Digital Tools for EUDR Compliance and Risk Benchmarking
+# GeoCitizen -Digital Tools for EUDR Compliance and Risk Benchmarking
 
 ## Overview
 This repository hosts the work from the internship **Digital Tools for EUDR Compliance and Risk Benchmarking**.  
@@ -35,8 +35,8 @@ The repo contains Jupyter notebooks, API tests, and prototype implementations fo
 ## Setup & Installation
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/nicolevasos/GeoCitizens.git
-   cd GeoCitizens
+   git clone https://github.com/nicolevasos/GeoCitizen.git
+   cd GeoCitizen
 2. Create a virtual environment
   ```python -m venv venv
     source venv/bin/activate   # On Mac/Linux
