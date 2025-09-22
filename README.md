@@ -35,7 +35,7 @@ The repo contains Jupyter notebooks, API tests, and prototype implementations fo
 ## Setup & Installation
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/<your-org>/<repo-name>.git
+   git clone https://github.com/nicolevasos/GeoCitizens.git
    cd GeoCitizens
 2. Create a virtual environment
   ```python -m venv venv
