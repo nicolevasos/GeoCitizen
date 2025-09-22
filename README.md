@@ -1,7 +1,7 @@
 # GeoCitizens – Digital Tools for EUDR Compliance and Risk Benchmarking
 
 ## Overview
-This repository contains the outputs from the internship **“Digital Tools for EUDR Compliance and Risk Benchmarking”** conducted at GeoCitizens from **July 15th to September 9th, 2025**.  
+This repository contains the outputs from the internship **“Digital Tools for EUDR Compliance and Risk Benchmarking”** conducted at GeoCitizens from **July 15th to September 15th, 2025**.  
 
 The project focuses on:  
 
